@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+header{
+    justify-content: space-between;
+    text-align: center;
+    color: #fff;
+}
+.caixa1{
+    border:1px solid rgb(27, 5, 63);
+    padding: 10em;
+    background-color: rgb(27, 5, 63);
+}
+.caixa2{
+    background-color:rgb(27, 5, 63);
+}
+header h4{
+    text-align: center;
+    color: #ccc;
+}
+h2{
+    text-align: center;
+    margin: 1em;
+}
+section{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+
+}
